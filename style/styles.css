@@ -1,0 +1,36 @@
+body {
+	background-color: #f0f0f0;
+	font-size: 16px;
+}
+
+div {
+	margin: 10px;
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+.short{
+	width: 70%;
+}
+
+.acc {
+	background-color: #ddf0dd;
+}
+
+span {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+button, input[type=submit] {
+	margin: 2px 1px;
+	padding: 3px 6px;
+	border: 1px groove;
+	color: #000000;
+	background-color: #f0cccc;
+}
+
+.active {
+	color: #ffffff;
+	background-color: #bd2222;
+}
